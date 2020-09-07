@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri Light;
+}
+
+.navbar {
+    background-color: rgb(35, 164, 250);
+    font-weight: bold;
+}
+
+.title_icon_1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #4275ff;
+}
+
+.title_icon_1:hover {
+    color: red;
+    transition: .5s;
+}
+
+.title_icon_2 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.title_icon_2:hover {
+    color: rgb(255, 208, 0);
+    transition: .5s;
+}
+
+.info1 li {
+    font-size: 18px;
+    color: #4275ff;
+}
+
+.info1 li a:hover {
+    color: red;
+    transition: .5s;
+}
+
+.search-icon {
+    color: #111111;
+}
+
+.search-icon:hover {
+    color: red;
+    transition: .5s;
+}
+
+.info2 li a {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.info2 li a.home {
+    color: rgb(255, 208, 0);
+}
+
+.info2 li a.home:hover {
+    color: rgb(255, 0, 0);
+}
+
+.info2 li a:hover {
+    color: rgb(255, 208, 0);
+    transition: .5s;
+}
+
+.about_us_1 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.about_us_2 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.para_1 {
+    font-family: Calibri Light;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.para_2 {
+    font-size: 18px;
+}
+
+.para_3 {
+    font-family: Calibri Light;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.para_4 {
+    font-size: 15px;
+}
+
+.pt-5 {
+    width: 100%;
+    height: 100%;
+}
+
+.our_business_1 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.edu_consulting_1 h3 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bsn_consulting_1 h3 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.edu_consulting_1 p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.bsn_consulting_1 p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.our_business_2 {
+    font-size: 16px;
+}
+
+.edu_consulting_2 h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bsn_consulting_2 h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.edu_consulting_2 p {
+    font-size: 15px;
+}
+
+.bsn_consulting_2 p {
+    font-size: 15px;
+}
+
+#news_1 h3.no1 {
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+#news_1 h3.no2 {
+    font-family: Calibri Light;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#news_2 h3.no1 {
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+#news_2 h3.no2 {
+    font-family: Calibri Light;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.news_image_1 {
+    width: 100%;
+    height: 213px;
+}
+
+.news_image_2 {
+    width: 100%;
+    height: 230px;
+}
+
+.news_link_1 p {
+    color: #111111;
+    font-family: Calibri Light;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.news_link_1:hover {
+    text-decoration: none;
+}
+
+.news_link_1 p:hover {
+    text-decoration: none;
+    color: red;
+    transition: .5s;
+}
+
+.para_5 {
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+.redirect_1 {
+    color: #111111;
+    font-family: Calibri Light;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.redirect_1:hover {
+    text-decoration: none;
+}
+
+.redirect_1 p:hover {
+    text-decoration: none;
+    color: red;
+    transition: .5s;
+}
+
+.news_link_2 p {
+    color: #111111;
+    font-family: Calibri Light;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.news_link_2:hover {
+    text-decoration: none;
+}
+
+.news_link_2 p:hover {
+    text-decoration: none;
+    color: red;
+    transition: .5s;
+}
+
+.para_6 {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.redirect_2 {
+    color: #111111;
+    font-family: Calibri Light;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.redirect_2:hover {
+    text-decoration: none;
+}
+
+.redirect_2 p:hover {
+    text-decoration: none;
+    color: red;
+    transition: .5s;
+}
+
+#contact_1 h3.no3 {
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.no4_1 {
+    font-family: Calibri Light;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#contact_2 h3.no3 {
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.no4_2 {
+    font-family: Calibri Light;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.send_button {
+    margin-bottom: 50px;
+    border-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #ffbc00;
+}
+
+.send_button:hover {
+    color: #111111;
+    background-color: rgb(19, 180, 19);
+    transition: .5s;
+}
+
+.footer_titles {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.footer_stuff {
+    font-size: 16px;
+}
+
+.footer_link {
+    color: #fff;
+}
+
+.footer_link:hover {
+    text-decoration: none;
+    color: red;
+    transition: .5s;
+}
+
+.footer_email {
+    width: 70%;
+    border-radius: 8px;
+    border-bottom-color: rgb(129, 129, 129);
+    border-right-style: none;
+    margin-top: 10px;
+    padding: 13px;
+    font-size: 16px;
+    background: transparent;
+    font-family: Calibri;
+    color: white;
+}
+
+.footer_submit {
+    width: 30%;
+    margin-top: 10px;
+    padding: 13px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-color: transparent;
+    font-weight: bold;
+    color: #111;
+    background-color: #fff;
+}
+
+.footer_submit:hover {
+    background-color: rgb(19, 180, 19);
+    transition: .5s;
+}
+
+.footer_border {
+    height: 1px;
+    width: 100%;
+    background: #fff;
+    margin-top: 10px;
+}
+
+.copyright_footer {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+}
